@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I am Giovannni,  a fresh master graduate in Computer Engineering for Robotics and Smart Industry 
+- 📊 I am excited to work with data, and machine learnine in general.    
+- 🤔 Currently I am looking for a job preferably as Data Scientist, but I am open to other opportunities. 
+- 📫 How to reach me: <a href="giovannibagolin@outlook.it" target="_blank">Email</a>, <a href="https://www.linkedin.com/in/gbagolin/" target="_blank">Linkedin</a> 
