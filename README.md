@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🎓 I am Giovannni,  a fresh master graduate in Computer Engineering for Robotics and Smart Industry 
 - 🤖 During my academic carrer I had the opportunity to work with many technologies regarding AI, Machine Learning, Data, Emdedded Systems, Robotics. 
-- 🤔 Currently I am looking for a job preferably as Data Scientist, but I am open to other opportunities. 
+- 🤔 Currently I am looking for a job either as Data Scientist or Software Engineer
 - 📫 How to reach me: [Email](mailto:giovannibagolin@outlook.it) , [Linkedin](https://www.linkedin.com/in/gbagolin/)
